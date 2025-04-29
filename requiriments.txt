@@ -1,0 +1,7 @@
+voila
+ipywidgets
+numpy
+pandas
+matplotlib
+seaborn
+scipy
